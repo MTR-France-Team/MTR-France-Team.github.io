@@ -1,0 +1,20 @@
+{
+  "extentions": {
+    "corail-pack": {
+      "label": "Pack de Corail",
+      "description": "Pack"
+    },
+    "bb22200": {
+      "label": "BB 22200",
+      "description": "BB 22200"
+    },
+    "corail": {
+      "label": "Voitures Corail",
+      "description": "Voitures Corail"
+    },
+    "corail-b5-b6": {
+      "label": "Voitures pilotes Corail",
+      "description": "Voitures pilotes Corail, B5 et B6"
+    }
+  }
+}

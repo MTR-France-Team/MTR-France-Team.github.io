@@ -1,0 +1,23 @@
+{
+  "name": "mtr-france-team.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MTR-France-Team/MTR-France-Team.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/MTR-France-Team/MTR-France-Team.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTR-France-Team/MTR-France-Team.github.io.git"
+  },
+  "license": "CC BY-NC-ND 4.0",
+  "author": "Flyzar73",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}

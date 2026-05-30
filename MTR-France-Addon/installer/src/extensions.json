@@ -13,5 +13,35 @@
     "id": 2,
     "name": "TGV Atlantique",
     "namespace": "dewon_tgv_atlantique"
+  },
+  {
+    "id": 3,
+    "name": "MI 84",
+    "namespace": "koex_mi84"
+  },
+  {
+    "id": 4,
+    "name": "MP 59",
+    "namespace": "koex_mp59"
+  },
+  {
+    "id": 5,
+    "name": "BB 222000",
+    "namespace": "lapinlapin_bb22200"
+  },
+  {
+    "id": 6,
+    "name": "Corail + B6",
+    "namespace": "lapinlapin_corail"
+  },
+  {
+    "id": 7,
+    "name": "z20500",
+    "namespace": "lapinlapin_z20500"
+  },
+  {
+    "id": 8,
+    "name": "MF 77",
+    "namespace": "ratm_mf77"
   }
 ]

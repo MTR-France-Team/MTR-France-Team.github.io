@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# customs
+
+MTR-France-Addon/installer/src/extensions/**
+!MTR-France-Addon/installer/src/extensions/*.zip

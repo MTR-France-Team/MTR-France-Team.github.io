@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "TGV PSE",
+    "namespace": "dewon_tgv_pse"
+  },
+  {
+    "id": 1,
+    "name": "TGV Duplex",
+    "namespace": "dewon_tgv_duplex"
+  },
+  {
+    "id": 2,
+    "name": "TGV Atlantique",
+    "namespace": "dewon_tgv_atlantique"
+  }
+]

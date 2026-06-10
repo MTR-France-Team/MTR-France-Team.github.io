@@ -48,5 +48,10 @@
     "id": 9,
     "name": "Train Jaune",
     "namespace": "lapinlapin_train_jaune"
+  },
+  {
+    "id": 9,
+    "name": "France Sign",
+    "namespace": "marin_france_sign"
   }
 ]

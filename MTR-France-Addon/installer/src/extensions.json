@@ -43,5 +43,10 @@
     "id": 8,
     "name": "MF 77",
     "namespace": "ratm_mf77"
+  },
+  {
+    "id": 9,
+    "name": "Train Jaune",
+    "namespace": "lapinlapin_train_jaune"
   }
 ]
